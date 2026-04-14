@@ -1,6 +1,5 @@
 // An easy level of problem
 // https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1
-package ArrayProblems;
 import java.util.ArrayList;
 
 public class Maximum_and_Minimum_Element_in_an_Array {

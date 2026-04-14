@@ -1,5 +1,3 @@
-package ArrayProblems;
-
 public class reverse {
     public static void main(String args[]) {
         int arr[]={8,2,4,1,3,6,7,10};
