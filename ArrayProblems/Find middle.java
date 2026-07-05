@@ -1,4 +1,4 @@
-class FindMiddle {
+class UniqueMiddle {
     public boolean isMiddleElementUnique(int[] nums) {
         //here what we can do is retrive the mid value and use two pointers and compare consiqutively with middle element
         if(nums.length==1){
