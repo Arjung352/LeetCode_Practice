@@ -1,3 +1,5 @@
+package SlidingWindow;
+
 class SubaarayProductLessThanK {
     public int numSubarrayProductLessThanK(int[] nums, int k) {
         // using sliding window
